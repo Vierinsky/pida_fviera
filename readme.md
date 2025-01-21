@@ -1,3 +1,5 @@
+![alt text](_src/soyhenry_logo.png)
+
 # Proyecto Individual: Análisis del Sector de Telecomunicaciones en Argentina
 
 ## Descripción
